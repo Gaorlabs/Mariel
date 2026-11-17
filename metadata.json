@@ -1,0 +1,6 @@
+{
+  "name": "Mi Agenda Inteligente",
+  "description": "Tu asistente personal con IA, agenda inteligente, salud y nutrición al estilo Fitia, optimizado para Mariel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

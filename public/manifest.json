@@ -1,0 +1,16 @@
+{
+  "name": "Mi Agenda Inteligente",
+  "short_name": "MiAgenda",
+  "description": "Tu asistente personal, agenda inteligente, salud y nutrición con IA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3b0764",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
